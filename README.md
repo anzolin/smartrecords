@@ -97,3 +97,5 @@ Third party
 
 SmartRecord is built on top of [iTextSharp](http://sourceforge.net/projects/itextsharp/).
 In the sample application, objects are generated using [AutoPoco](http://http://autopoco.codeplex.com/). I'm not associated with these projects at any way.
+
+>Want to help me keep creating open source projects, make a donation: [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=DN2VPNW42RTXY&no_recurring=0&currency_code=BRL) Thank you!
